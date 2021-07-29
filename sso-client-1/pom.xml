@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.liboru</groupId>
-    <artifactId>sso-client</artifactId>
+    <artifactId>sso-client-1</artifactId>
     <version>0.0.1</version>
-    <name>sso-client</name>
+    <name>sso-client-1</name>
     <description>sso client</description>
     <properties>
         <java.version>1.8</java.version>

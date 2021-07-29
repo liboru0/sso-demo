@@ -1,2 +1,9 @@
 server:
   port: 6001
+
+spring:
+  redis:
+    host: 10.3.246.105
+    port: 6380
+    database: 0
+    password: p1w0lao2hu4

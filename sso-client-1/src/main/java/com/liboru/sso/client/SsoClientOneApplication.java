@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SsoClientApplication {
+public class SsoClientOneApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SsoClientApplication.class, args);
+        SpringApplication.run(SsoClientOneApplication.class, args);
     }
 
 }

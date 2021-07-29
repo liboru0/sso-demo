@@ -8,7 +8,7 @@ public class OkController {
 
     @RequestMapping
     public String ok(){
-        return "sso-client ok...";
+        return "sso-client-2 ok...";
     }
 
 }
